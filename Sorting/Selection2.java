@@ -17,8 +17,7 @@ public class Selection2 {
     public static int getMaxIndex(int[] arr,int start, int last){
         int max = start;
         for(int i = start;i<=last;i++){
-            if(arr[i]>
-            arr[max]){
+            if(arr[i]>arr[max]){
                 max = i;
             }
         }
