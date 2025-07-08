@@ -1,4 +1,4 @@
-public class RightAngledTriangle{
+public class RightAngledTriangleIncreasingStars{
     public static void main(String[] args){
         pattern(4);
 
