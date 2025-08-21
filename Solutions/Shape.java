@@ -1,5 +1,4 @@
-// User function Template for Java
-//  Implement both the classes here
+
 abstract class Shape {
     String color;
 
