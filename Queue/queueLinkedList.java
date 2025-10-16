@@ -1,4 +1,5 @@
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 
 class queueLinkedList {
     public static void main(String[] args) {
@@ -12,3 +13,4 @@ class queueLinkedList {
         }
     }
 }
+//completed
