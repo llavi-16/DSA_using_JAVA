@@ -1,6 +1,6 @@
 import java.util.*;
 class FindUnion{
-    public static void UnionFin(int[] arr1, int[] arr2){
+    public static void uni(int[] arr1, int[] arr2){
         HashSet<Integer> set = new HashSet<>();
         int count =0;
         for(int i=0; i<arr1.length;i++){
@@ -18,6 +18,6 @@ class FindUnion{
     public static void main(String[] args){
         int[] arr1 = {7,3,9};
         int[] arr2 = {6,9,3,2,9,4};
-        UnionFin(arr1,arr2);
+        uni(arr1,arr2);
     }
 }
